@@ -1,0 +1,38 @@
+body{
+	background-color: #199652;
+	width: 100%;
+	height: 100%
+}
+div{
+		position: absolute;
+		top: 33%;
+    	left: 37%;
+		width: 358px;
+		height: 273px;
+		/*border: 2px solid black*/;
+		
+}
+input {
+    width: 281px;
+    height: 32px;
+    margin-top: 11px;
+}
+
+  button{  margin-left: 64px;
+    margin-top: 35px;
+    width: 170px;
+    height: 33px;
+    background: #2aa59b;
+    color: white;
+    border-color: rgba(0,0,0,0);}
+h1 {
+    text-align: center;
+    color: white;
+   
+}
+form {
+    height: 148px;
+    /*border: 1px solid black;*/
+    padding: 10px;
+    margin: 18px;
+}
